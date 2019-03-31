@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/deadpool/AndroidProjects/dementiAR/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/res/values-hdpi/values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "297",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "567"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}

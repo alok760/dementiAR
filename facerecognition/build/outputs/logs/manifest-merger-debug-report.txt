@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+MERGED from [:openCVLibrary2410] /home/deadpool/AndroidProjects/dementiAR/openCVLibrary2410/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /home/deadpool/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha9.aar/62a9050d312839af459b80ef7b62e2f2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-22.2.0.aar/8cebd2f923203cb57afdcf3f6fd595d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.vr:sdk-audio:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-audio-1.160.0.aar/0efa06545f9c83839938ac8cfeb4571e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/ca05c2945e667707e122991a5cfe6300/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/ac4203cbffc358d335b543c7992143f6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.vr:sdk-common:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-common-1.160.0.aar/1827b5511c28f6ba3f2c2af7de364aff/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:8:5-81
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:16:5-81
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:8:22-78
+supports-screens
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:10:5-15:39
+	android:largeScreens
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:12:9-36
+	android:smallScreens
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:14:9-34
+	android:anyDensity
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:11:9-34
+uses-permission#android.permission.CAMERA
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:19:22-64
+uses-feature#android.hardware.camera
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:21:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:24:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:27:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:30:9-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:34:5-80
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:15:5-80
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:34:22-77
+application
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:36:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /home/deadpool/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha9.aar/62a9050d312839af459b80ef7b62e2f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /home/deadpool/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha9.aar/62a9050d312839af459b80ef7b62e2f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/ca05c2945e667707e122991a5cfe6300/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/ca05c2945e667707e122991a5cfe6300/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/ac4203cbffc358d335b543c7992143f6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/ac4203cbffc358d335b543c7992143f6/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:38:9-41
+	android:icon
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:37:9-43
+	android:theme
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:39:9-40
+activity#neurobreach.dementiAR.Recognize
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:41:9-50:20
+	android:screenOrientation
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:43:13-50
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:42:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:47:27-74
+activity#neurobreach.dementiAR.Training
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:51:9-54:53
+	android:screenOrientation
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:54:13-50
+	android:label
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:52:13-58
+activity#neurobreach.dementiAR.NameActivity
+ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:55:9-57:59
+	android:windowSoftInputMode
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml:56:13-62
+uses-sdk
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+MERGED from [:openCVLibrary2410] /home/deadpool/AndroidProjects/dementiAR/openCVLibrary2410/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [:openCVLibrary2410] /home/deadpool/AndroidProjects/dementiAR/openCVLibrary2410/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /home/deadpool/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha9.aar/62a9050d312839af459b80ef7b62e2f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /home/deadpool/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha9.aar/62a9050d312839af459b80ef7b62e2f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-22.2.0.aar/8cebd2f923203cb57afdcf3f6fd595d9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-22.2.0.aar/8cebd2f923203cb57afdcf3f6fd595d9/AndroidManifest.xml:20:5-43
+MERGED from [com.google.vr:sdk-audio:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-audio-1.160.0.aar/0efa06545f9c83839938ac8cfeb4571e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-audio:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-audio-1.160.0.aar/0efa06545f9c83839938ac8cfeb4571e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/ce0d2d48565030c5acccbb19e95c89dc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/ca05c2945e667707e122991a5cfe6300/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/ca05c2945e667707e122991a5cfe6300/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/ac4203cbffc358d335b543c7992143f6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/ac4203cbffc358d335b543c7992143f6/AndroidManifest.xml:20:5-43
+MERGED from [com.google.vr:sdk-common:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-common-1.160.0.aar/1827b5511c28f6ba3f2c2af7de364aff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-common-1.160.0.aar/1827b5511c28f6ba3f2c2af7de364aff/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		ADDED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+		INJECTED from /home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:12:9-32
+uses-feature#android.software.vr.mode
+ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:20:9-48
+uses-feature#android.hardware.vr.high_performance
+ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.160.0] /home/deadpool/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/91dced2c87eed508fe084f23a2b99734/AndroidManifest.xml:24:9-60

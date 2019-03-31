@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/deadpool/AndroidProjects/dementiAR/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "/home/deadpool/AndroidProjects/dementiAR/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,16",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,46",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,82,134,216,259,325,374,428,467,510,559,611,664,705,757,808",
+                        "endColumns": "26,51,81,42,65,48,53,38,42,48,51,52,40,51,50,46",
+                        "endOffsets": "77,129,211,254,320,369,423,462,505,554,606,659,700,752,803,850"
+                    }
+                }
+            ]
+        }
+    ]
+}
