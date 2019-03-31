@@ -1,4 +1,4 @@
-### dementiAR
+# dementiAR
 
 It's normal to forget things from time to time, and it's normal to become somewhat more forgetful as you age. But how much forgetfulness is too much? How can you tell whether your memory lapses are normal forgetfulness and within the scope of normal ageing or are a symptom of something more serious?
 
